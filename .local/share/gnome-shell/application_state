@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="ubuntu-desktop-installer_ubuntu-desktop-installer.desktop" score="0" last-seen="1700161824"/>
+    <application id="firefox_firefox.desktop" score="2" last-seen="1700162793"/>
+    <application id="org.gnome.Terminal.desktop" score="170" last-seen="1700163492"/>
+    <application id="org.gnome.Settings.desktop" score="53" last-seen="1700162567"/>
+  </context>
+</application-state>
